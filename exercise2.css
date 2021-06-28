@@ -1,0 +1,54 @@
+h1 {
+    font-family: "Seaweed Script", cursive;
+    text-align: left;
+    margin: 5px 10px;
+    padding: 5px 10px;
+}
+body {
+    font-family: "Nanum Brush Script", cursive;
+    font-size: 18px;
+    background-color: white;
+    margin: 0px;
+    padding: 0px;
+}
+main {    
+    background-color: #ccc;
+    width: 1000px;
+    align-content: center;
+    margin: 0px auto;
+    padding: 0px;
+}
+figure {
+    border: 1px solid #ddd;
+    width: 250px;
+    margin: 0px auto;
+    padding: 10px;
+    box-shadow: 4px 4px 2px #999;
+}
+figcaption {
+    color: #333;
+    padding: 2px;
+    text-align: center;
+}
+p {
+    margin: 5px 10px;
+    padding: 5px 10px;
+}
+.container {
+    background-color: white;
+    width: 800px;
+    height: 725px;
+    align-content: center;
+    margin: 0px auto;
+    padding: 0px 50px;
+}
+.tallShip {
+    float: right;
+    margin: 15px;
+    transform: rotate(3deg);
+}
+.chest {
+    float: left;    
+    margin: 15px;
+    transform: rotate(-3deg);
+}
